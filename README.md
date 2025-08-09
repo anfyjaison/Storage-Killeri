@@ -66,7 +66,7 @@ Thousands of trash_XXX.bin files
 Hilariously accurate folder size: "4.98GB of regret"
 
 
-VIDEO:https://drive.google.com/file/d/14eVduaKJWAF6wy1hvvD8ZsswL3jzyNzd/view?usp=drive_link
+VIDEO:[https://drive.google.com/file/d/14eVduaKJWAF6wy1hvvD8ZsswL3jzyNzd/view?usp=drive_link](https://drive.google.com/file/d/14eVduaKJWAF6wy1hvvD8ZsswL3jzyNzd/view?usp=drive_link)
 
 
 Team Contributions
